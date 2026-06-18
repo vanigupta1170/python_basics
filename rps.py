@@ -36,3 +36,6 @@ def check_win(player ,computer):
 choices = get_choices()
 result = check_win(choices["player"], choices["computer"])
 print(result)
+
+#If we put ; after a statement and then write another statement, both the statements will still run.
+#eg:: name="Shivani" ; print(name)
